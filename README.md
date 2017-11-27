@@ -63,7 +63,6 @@ Hospedagem  | Heroku e Infinity Free
 Serviço | Endereço web | Usuário | Senha | Observações
 --------- | ------ | --------- | ------ | ------
 Sistema  | http://sistema-evale.herokuapp.com | admin | 123456 | Esse usuário faz login como administrador do Posto de Combustível
-Site Institucional  | http://evale.epizy.com 
 
 
 ## ATIVIDADES REALIZADAS NO PERÍODO
