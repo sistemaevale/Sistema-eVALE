@@ -56,7 +56,7 @@ Aplicação     | PHP 7.1, Laravel 5.5, Bootstrap, CSS, HTML, JavaScript, MySQL 
 Template  | SB Admin 2
 Editor de Texto  | Sublime Text 3
 Design pattern  | MVC
-Hospedagem  | Heroku e Infinity Free
+Hospedagem  | Heroku 
 
 ## HOSPEDAGEM
 
